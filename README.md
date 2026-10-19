@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=39D353&center=true&vCenter=true&width=640&lines=Hey%2C+I'm+Abdirahman+%F0%9F%91%8B;Cloud+%26+Network+Engineer;Automating+networks+with+code;Ansible+%C2%B7+Terraform+%C2%B7+AWS+%C2%B7+VyOS" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=39D353&center=true&vCenter=true&width=640&lines=Hey%2C+I'm+Abdirahman+%F0%9F%91%8B;Cloud+%26+Network+Engineer;WGU+Grad+%F0%9F%8E%93;Automating+networks+with+code;Ansible+%C2%B7+Terraform+%C2%B7+AWS+%C2%B7+VyOS" alt="Typing intro" />
 
-**Columbus, OH** · Cloud & Network Engineering @ WGU · Tech Elevator .NET bootcamp grad
+**Columbus, OH** · 🎓 B.S. Cloud & Network Engineering, WGU · Tech Elevator .NET bootcamp grad
 
 </div>
 
@@ -10,7 +10,7 @@
 
 ### 🛰️ About me
 
-- 🌐 Studying for a **B.S. in Cloud & Network Engineering** at Western Governors University
+- 🎓 Graduated with a **B.S. in Cloud & Network Engineering** from Western Governors University
 - ⚙️ I like replacing click-ops with code: **Python, Ansible and Terraform** for networks and cloud infrastructure
 - 🔐 Recent work: site-to-site **IPsec VPNs**, segmented VLAN designs, and AI-assisted network security
 - 💻 Background in full-stack development: **C# / ASP.NET Core, Vue and SQL Server**
